@@ -1,0 +1,34 @@
+SDLC:
+software development life cycle:it is pictorial and daigrammantic representation of the software life cycle .
+a life cycle model represents how all methods required to make a software sucessful are organised.
+
+need of sdlc:
+->the process becomes more systematic and disciplined using sdlc
+->team gets a clear idea of what should be done in the existing time span
+->avoid the chous and failure of the project
+->monitering the progress becomes an easy task 
+
+stages of sdlc cycle:
+->planning :requirement analysis is the most imporant and neccasary stage,planning for the quality , identifing the project risk is involved in this step
+->defining requirements : we define all the possible documents ,enginers and all other resources that we need are planned . this step accomplishes the srs model that is software requirement specificatuons
+->design 
+->develop
+->testing
+->deploy
+->maintain
+
+SDLC Models:
+software develpoment process models.
+important phases of sdlc lifecycle:
+->waterfall model
+->rad model
+->spiral model
+->v-model
+->incremental miodel
+->agile model
+->iterative model
+->bigbang model
+
+
+
+
