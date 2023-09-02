@@ -1,0 +1,22 @@
+phases:
+Requirements analysis and specification phase:
+Design Phase:
+Implementation and unit testing
+Integration and System Testing
+Operation and maintenance phase
+
+waterfall model is suited where:
+->small project
+->requiment are nor changed regularly
+->resources are well available and prepared
+
+advantage:
+->simple to impliment
+->start and end point are fixed and probably same everytime 
+->cost and complete date of the project can be defined before hand
+disadvantage
+->risk factor is very high so suitable for big projects
+->changes can't be accepted while deveopment phase
+->testing is done at last so risk of project failure increases
+->model is very rigid in nature
+
