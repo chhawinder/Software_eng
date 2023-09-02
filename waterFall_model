@@ -15,6 +15,7 @@ advantage:
 ->start and end point are fixed and probably same everytime 
 ->cost and complete date of the project can be defined before hand
 disadvantage
+->no parlelism is there(multiple departments can't work in a pallel method)
 ->risk factor is very high so suitable for big projects
 ->changes can't be accepted while deveopment phase
 ->testing is done at last so risk of project failure increases
