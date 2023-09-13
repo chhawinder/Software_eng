@@ -1,0 +1,105 @@
+What is SE?
+it is a systematic disciplined costefficient technique to develop a software model
+SE was important because:
+->to manage large softwares
+->cost management
+->quality management(better queality of the product delivered)
+->software is dynamic in nature and could adjust in changing world
+
+Importance of software e?
+reduces complexity :to handle big projects se could be used to handle the complications
+minimize cost: by anaylising we are able to decide what are the crucial things on which we need to spend our money
+decrese time : se could help to devide the work properly and lay down a work flow for the project and this could help in time management and will avoid the time waste
+reliable software: by se we have already measured all the risks and that make our software more reliable and robust
+
+Software Crisis 
+->is a term used in computer science for the difficulty of writing useful and efficient computer programs in the required time.
+-> The software crisis was due to using the same workforce, same methods, and same tools even though rapidly increasing software demand, 
+->the complexity of software, and software challenges. 
+With the increase in software complexity, many software problems arise because existing methods were insufficient.
+
+->If we will use the same workforce, same methods, and same tools after the fast increase in software demand, 
+software complexity, and software challenges, then there arise some problems like software budget problems, 
+software efficiency problems, software quality problems, software management, and delivery problem, etc. 
+This condition is called a Software Crisis.
+
+Q.2: Give one of the real examples of a Software Crisis?
+Answer:
+
+One of the famous software failures in computer science is Therac-25. It is a machine that is used to deliver radiation therapy to Cancer Patients.
+
+
+types of myth:
+(i) Management Myths:
+
+Myth 1:
+
+We have all the standards and procedures available for software development.
+
+Fact:
+
+Software experts do not know all the requirements for the software development.
+And all existing processes are incomplete as new software development is based on new and different problem.
+Myth 2:
+
+The addition of the latest hardware programs will improve the software development.
+
+Fact:
+
+The role of the latest hardware is not very high on standard software development; 
+instead (CASE) Engineering tools help the computer, they are more important than hardware to produce quality and productivity.
+Hence, the hardware resources are misused.
+Myth 3:
+
+With the addition of more people and program planners to Software development can help meet project deadlines (If lagging behind).
+Fact: 
+
+If software is late, adding more people will merely make the problem worse. 
+This is because the people already working on the project now need to spend time educating the newcomers, 
+and are thus taken away from their work. The newcomers are also far less productive than the existing software engineers, 
+and so the work put into training them to work on the software does not immediately meet with an appropriate reduction in work.
+
+
+(ii)Customer Myths: 
+
+The customer can be the direct users of the software, the technical team, marketing / sales department, or other company. 
+Customer has myths leading to false expectations (customer) & that’s why you create dissatisfaction with the developer.
+
+Myth 1:
+
+A general statement of intent is enough to start writing plans (software development) and details of objectives can be done over time.
+
+Fact:
+
+Official and detailed description of the database function, ethical performance, communication, structural issues and the verification process are important.
+Unambiguous requirements (usually derived iteratively) are developed only through effective and continuous
+communication between customer and developer.
+Myth 2:
+
+Software requirements continually change, but change can be easily accommodated because software is flexible
+
+Fact:
+
+It is true that software requirements change, but the impact of change varies with the time at which it is introduced. 
+When requirements changes are requested early (before design or code has been started), the cost impact is relatively small. 
+
+(iii)Practitioner’s Myths:
+
+Myths 1:
+
+They believe that their work has been completed with the writing of the plan.
+
+Fact:
+
+It is true that every 60-80% effort goes into the maintenance phase (as of the latter software release). 
+Efforts are required, where the product is available first delivered to customers.
+Myths 2:
+
+There is no other way to achieve system quality, until it is “running”.
+
+Fact:
+
+Systematic review of project technology is the quality of effective software verification method. These updates are quality filters and more accessible than test.
+
+
+
