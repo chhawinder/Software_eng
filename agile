@@ -1,0 +1,37 @@
+->it is an iterative approach for software development
+->each iteration is for 1-4weeks
+
+2 roles in agile :
+
+scrum master:
+->team lead that helps team members to follow agile practices
+product owners:
+->is one who runs the product from a business perspective
+
+agile sdlc:
+ut combines both iterative and icremental process models 
+it breaks the product into small incremental builds and they are called chunks
+in this customer is able to see the result and understand weather they are stisfied by the product or not
+it is difficult to estimate the resources and developement cost.
+
+Advantages of Agile SDLC
+Project is divided into short and transparent iterations.
+It has a flexible change process.
+It minimizes the risk of software development.
+Quick release of the first product version.
+The correctness of functional requirement is implemented into the development process.
+Customer can see the result and understand whether he/she is satisfied with it or not.
+
+Disadvantages of Agile SDLC
+The development team should be highly professional and client-oriented.
+New requirement may be a conflict with the existing architecture.
+With further correction and change, there may be chances that the project will cross the expected time.
+There may be difficult to estimate the final coast of the project due to constant iteration.
+A defined requirement is absent.
+
+
+what is Scrum?
+Scrum is a framework that helps agile teams to work together. Using it, the team members can deliver and sustain the complex product.
+
+What are sprints?
+With scrum, a product is built in a series of repetition called sprints. It breaks down big complex projects into bite-size pieces. It makes projects more manageable
